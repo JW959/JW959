@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JW959
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Jiyao WAN
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning SQL, Tebleau
+- 💞️ I’m looking to collaborate on Data analyst project
 - 📫 How to reach me wanjulia959@gmail.com
 
 <!---
